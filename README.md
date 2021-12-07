@@ -4,8 +4,8 @@
 # [![yunusemresogut_header](https://raw.githubusercontent.com/erdodo/erdodo/main/react-svg-component-library-1.gif)](https://google.com)
 
 ## 🖥 I am working on two projects right now
- - ### One of them is “CRM System” that i work a backend developer
- - ### Other one is "Accounting System" that i work as a front developer
+ - ### One of them is “CRM System” that i work a Frontend Developer
+ - ### Other one is "Accounting System" that i work as a Front Developer
 <br>
 
 ## <img src="https://img.icons8.com/office/23/000000/media-queries.png"/> Frontend Languages
@@ -14,6 +14,7 @@
     <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     </a><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="width:40px; margin-bottom:5px"></a>
+    <a><img src="https://cdn.iconscout.com/icon/free/png-256/react-1543566.png" style="width:40px; margin-bottom:5px"></a>
     <a><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" style="width:41px; margin-bottom:4px;"></a>
 
 
@@ -21,7 +22,6 @@
 
 ## <img src="https://img.icons8.com/office/23/000000/code.png"/> Backend Languages
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> </a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png" style="width:40px">
 
 <br>
 <br>

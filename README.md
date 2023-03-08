@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/yunusemresogut/yunusemresogut/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/yunusemresogut/yunusemresogut/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
-  <a href="https://yunusemresogut.github.io/yunusemresogut/">
-  <img  src="https://github.com/yunusemresogut/yunusemresogut/blob/main/resources/img/grid-snake.svg"
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -101,9 +101,9 @@
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/yunusemresogut/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yunusemresogut&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemresogut&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -116,8 +116,8 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/yunusemresogut/github-readme-activity-graph">
+  <img alt="yunusemresogut" src="https://activity-graph.herokuapp.com/graph/?username=yunusemresogut&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
@@ -205,4 +205,3 @@
 </details>
 <br/>
 </details> 
-
